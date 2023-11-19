@@ -1,8 +1,7 @@
 # LeetCode Solutions
-
+<div class="container" style="display:flex; ">
 Welcome to my daily LeetCode problem-solving repository! 🚀
-<div align="right">
-  <img src="https://github.com/praTeek271/leetcode_solved/blob/4e62a804330f3d0d3f5bedb986b0b203608798d8/_imgs_/1676966273702.jpeg" alt="LeetCode Logo" width="200">
+  <img  align="right" src="https://media.licdn.com/dms/image/D4D12AQFtY-HEMBnArw/article-cover_image-shrink_423_752/0/1676966273702?e=1706140800&v=beta&t=IYsa_wlTVr7qczHkzgceWbJULF_loHaioB9n4lIpLEQ" alt="LeetCode Logo" width="500">
 </div>
 
 ## Overview
@@ -38,5 +37,5 @@ Happy coding! 🚀
 
 
 <div align="center">
-  <img src="https://github.com/praTeek271/leetcode_solved/blob/cb6ba93ff17def56fc2c3263fdf8e7863bf4fed8/_imgs_/Leetcode-problems-and-solution.png" alt="Another Image" width="400">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3O0FHQ4wT251rkToz0CHGPoN9iMRj39Zjg&usqp=CAU" alt="Another Image" width="800" height=auto>
 </div>
