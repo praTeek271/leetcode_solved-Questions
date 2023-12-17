@@ -39,3 +39,35 @@ Happy coding! 🚀
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3O0FHQ4wT251rkToz0CHGPoN9iMRj39Zjg&usqp=CAU" alt="Another Image" width="800" height=auto>
 </div>
+
+## Questions ---
+<ul>
+  <li>
+  
+  [2353. Design a Food Rating System](https://github.com/praTeek271/leetcode_solved/blob/8df92c377a1a6e25b05d63253f7f938e9a3e1771/2353.%20Design%20a%20Food%20Rating%20System.md)
+    
+  </li>
+  
+  <li>
+  
+  [1220. Count Vowels Permutation](https://github.com/praTeek271/leetcode_solved/blob/main/1220.%20Count%20Vowels%20Permutation.md)
+    
+  </li>
+  
+  </li>
+  
+  <li>
+  
+  [1424. Diagonal Traverse II](https://github.com/praTeek271/leetcode_solved/blob/main/1424.%20Diagonal%20Traverse%20II.md)
+    
+  </li>
+  
+  </li>
+  
+  <li>
+  
+  [etc ...](https://github.com/praTeek271/leetcode_solved)
+    
+  </li>
+  
+</ul>
