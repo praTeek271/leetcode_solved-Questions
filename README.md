@@ -64,6 +64,15 @@ Happy coding! 🚀
   
   </li>
   
+  
+  <li>
+  
+  [1913. Maximum Product Difference Between Two Pairs](https://github.com/praTeek271/leetcode_solved/blob/main/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.md)
+    
+  </li>
+  
+  </li>
+  
   <li>
   
   [etc ...](https://github.com/praTeek271/leetcode_solved)
