@@ -71,6 +71,14 @@ Happy coding! 🚀
     
   </li>
   
+  
+  
+  <li>
+  
+  [661. Image Smoother](https://github.com/praTeek271/leetcode_solved/blob/main/661.%20Image%20Smoother.md)
+    
+  </li>
+  
   </li>
   
   <li>
