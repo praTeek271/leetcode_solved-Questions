@@ -81,6 +81,16 @@ Happy coding! 🚀
   
   </li>
   
+  
+  
+  <li>
+  
+  [2706. Buy Two Chocolates](https://github.com/praTeek271/leetcode_solved/blob/main/2706.%20Buy%20Two%20Chocolates.md)
+    
+  </li>
+  
+  </li>
+  
   <li>
   
   [etc ...](https://github.com/praTeek271/leetcode_solved)
