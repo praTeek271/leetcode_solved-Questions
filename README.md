@@ -81,11 +81,17 @@ Happy coding! 🚀
   
   </li>
   
-  
-  
   <li>
   
   [2706. Buy Two Chocolates](https://github.com/praTeek271/leetcode_solved/blob/main/2706.%20Buy%20Two%20Chocolates.md)
+    
+  </li>
+  
+  </li>
+  
+  <li>
+  
+  [1637. Widest Vertical Area Between Two Points Containing No Points](https://github.com/praTeek271/leetcode_solved/blob/main/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.md)
     
   </li>
   
