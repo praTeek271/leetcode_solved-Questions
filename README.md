@@ -43,64 +43,57 @@ Happy coding! 🚀
 ## Questions ---
 <ul>
   <li>
-  
-  [2353. Design a Food Rating System](https://github.com/praTeek271/leetcode_solved/blob/8df92c377a1a6e25b05d63253f7f938e9a3e1771/2353.%20Design%20a%20Food%20Rating%20System.md)
+    
+  [1220. Count Vowels
+  Permutation](https://github.com/praTeek271/leetcode_solved/blob/main/1220.%20Count%20Vowels%20Permutation.md)
     
   </li>
-  
+
   <li>
   
-  [1220. Count Vowels Permutation](https://github.com/praTeek271/leetcode_solved/blob/main/1220.%20Count%20Vowels%20Permutation.md)
-    
-  </li>
+  [1424. Diagonal Traverse
+  II](https://github.com/praTeek271/leetcode_solved/blob/main/1424.%20Diagonal%20Traverse%20II.md)
   
   </li>
-  
+
   <li>
   
-  [1424. Diagonal Traverse II](https://github.com/praTeek271/leetcode_solved/blob/main/1424.%20Diagonal%20Traverse%20II.md)
-    
+  [1913. Maximum Product Difference Between Two
+  Pairs](https://github.com/praTeek271/leetcode_solved/blob/main/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.md)
+ 
   </li>
-  
-  </li>
-  
-  
+
   <li>
+   
+  [661. Image
+  Smoother](https://github.com/praTeek271/leetcode_solved/blob/main/661.%20Image%20Smoother.md)
   
-  [1913. Maximum Product Difference Between Two Pairs](https://github.com/praTeek271/leetcode_solved/blob/main/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.md)
-    
   </li>
-  
-  
-  
+
   <li>
-  
-  [661. Image Smoother](https://github.com/praTeek271/leetcode_solved/blob/main/661.%20Image%20Smoother.md)
     
-  </li>
+  [2706. Buy Two
+  Chocolates](https://github.com/praTeek271/leetcode_solved/blob/main/2706.%20Buy%20Two%20Chocolates.md)
   
   </li>
-  
+
   <li>
-  
-  [2706. Buy Two Chocolates](https://github.com/praTeek271/leetcode_solved/blob/main/2706.%20Buy%20Two%20Chocolates.md)
     
-  </li>
+  [1637. Widest Vertical Area Between Two Points Containing No
+  Points](https://github.com/praTeek271/leetcode_solved/blob/main/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.md)
   
   </li>
-  
+
   <li>
-  
-  [1637. Widest Vertical Area Between Two Points Containing No Points](https://github.com/praTeek271/leetcode_solved/blob/main/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.md)
     
+  [1758. Minimum Changes To Make Alternating Binary
+  String](https://github.com/praTeek271/leetcode_solved/blob/main/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.md)
+
   </li>
-  
-  </li>
-  
+
   <li>
   
   [etc ...](https://github.com/praTeek271/leetcode_solved)
-    
-  </li>
   
+  </li>
 </ul>
