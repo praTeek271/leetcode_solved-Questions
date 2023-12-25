@@ -90,6 +90,12 @@ Happy coding! 🚀
   String](https://github.com/praTeek271/leetcode_solved/blob/main/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.md)
 
   </li>
+  
+  <li>
+    
+  [91. Decode Ways](https://github.com/praTeek271/leetcode_solved/blob/main/91.%20Decode%20Ways.md)
+
+  </li>
 
   <li>
   
