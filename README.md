@@ -96,6 +96,12 @@ Happy coding! 🚀
   [91. Decode Ways](https://github.com/praTeek271/leetcode_solved/blob/main/91.%20Decode%20Ways.md)  Dec ,25th , 2023
 
   </li>
+  
+  <li>
+    
+  [1155. Number of Dice Rolls With Target Sum](https://github.com/praTeek271/leetcode_solved/blob/main/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)  Dec ,26th , 2023
+
+  </li>
 
   <li>
   
