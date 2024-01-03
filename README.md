@@ -96,6 +96,12 @@ Happy coding! 🚀
   [91. Decode Ways](https://github.com/praTeek271/leetcode_solved/blob/main/91.%20Decode%20Ways.md)  Dec ,25th , 2023
 
   </li>
+    
+  <li>
+    
+  [1155. Number of Dice Rolls With Target Sum](https://github.com/praTeek271/leetcode_solved/blob/main/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)  Dec ,26th , 2023
+
+  </li>
   <li>
     
   [455. Assign Cookies](https://github.com/praTeek271/leetcode_solved/blob/main/455.%20Assign%20Cookies.md)  Jan ,1st , 2024
@@ -107,12 +113,12 @@ Happy coding! 🚀
   [2610. Convert an Array Into a 2D Array With Conditions](https://github.com/praTeek271/leetcode_solved/blob/main/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.md)  Jan ,2nd , 2024
 
   </li>
-  
   <li>
     
-  [1155. Number of Dice Rolls With Target Sum](https://github.com/praTeek271/leetcode_solved/blob/main/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)  Dec ,26th , 2023
+  [2125. Number of Laser Beams in a Bank](https://github.com/praTeek271/leetcode_solved/blob/main/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.md)  Jan ,3rd , 2024
 
   </li>
+
 
   <li>
   
