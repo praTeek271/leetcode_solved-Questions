@@ -118,6 +118,11 @@ Happy coding! 🚀
   [2125. Number of Laser Beams in a Bank](https://github.com/praTeek271/leetcode_solved/blob/main/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.md)  Jan ,3rd , 2024
 
   </li>
+  <li>
+    
+  [2870. Minimum Number of Operations to Make Array Empty](https://github.com/praTeek271/leetcode_solved/commit/39883d2344c4e559e12275c93a514844d69e3b33)  Jan ,4th , 2024
+
+  </li>
 
 
   <li>
