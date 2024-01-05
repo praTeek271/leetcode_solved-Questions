@@ -123,6 +123,11 @@ Happy coding! 🚀
   [2870. Minimum Number of Operations to Make Array Empty](https://github.com/praTeek271/leetcode_solved/commit/39883d2344c4e559e12275c93a514844d69e3b33)  Jan ,4th , 2024
 
   </li>
+  <li>
+    
+  [300. Longest Increasing Subsequence](https://github.com/praTeek271/leetcode_solved/blob/main/300.%20Longest%20Increasing%20Subsequence.md)  Jan ,5th , 2024
+
+  </li>
 
 
   <li>
