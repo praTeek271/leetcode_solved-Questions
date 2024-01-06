@@ -128,6 +128,11 @@ Happy coding! 🚀
   [300. Longest Increasing Subsequence](https://github.com/praTeek271/leetcode_solved/blob/main/300.%20Longest%20Increasing%20Subsequence.md)  Jan ,5th , 2024
 
   </li>
+  <li>
+    
+  [1235. Maximum Profit in Job Scheduling](https://github.com/praTeek271/leetcode_solved/blob/main/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)  Jan ,6th , 2024
+
+  </li>
 
 
   <li>
