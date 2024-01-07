@@ -133,6 +133,11 @@ Happy coding! 🚀
   [1235. Maximum Profit in Job Scheduling](https://github.com/praTeek271/leetcode_solved/blob/main/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.md)  Jan ,6th , 2024
 
   </li>
+  <li>
+    
+  [446. Arithmetic Slices II - Subsequence](https://github.com/praTeek271/leetcode_solved/blob/main/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.md)  Jan ,7th , 2024
+
+  </li>
 
 
   <li>
