@@ -138,6 +138,11 @@ Happy coding! 🚀
   [446. Arithmetic Slices II - Subsequence](https://github.com/praTeek271/leetcode_solved/blob/main/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.md)  Jan ,7th , 2024
 
   </li>
+  <li>
+    
+  [938. Range Sum of BST](https://github.com/praTeek271/leetcode_solved/blob/main/938.%20Range%20Sum%20of%20BST.md)  Jan ,8th , 2024
+
+  </li>
 
 
   <li>
