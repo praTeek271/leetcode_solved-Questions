@@ -143,6 +143,11 @@ Happy coding! 🚀
   [938. Range Sum of BST](https://github.com/praTeek271/leetcode_solved/blob/main/938.%20Range%20Sum%20of%20BST.md)  Jan ,8th , 2024
 
   </li>
+  <li>
+    
+  [872. Leaf-Similar Trees](https://github.com/praTeek271/leetcode_solved/blob/main/872.%20Leaf-Similar%20Trees.md)  Jan ,9th , 2024
+
+  </li>
 
 
   <li>
